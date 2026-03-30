@@ -24,8 +24,8 @@ Data structuring & Modeling
 - **Data Visualization & Analysis:** Power BI, DAX
 ## **📑 Report contents**
 This repository contains a PDF version of the Power BI report hosted on the Power BI Service, along with its underlying data model. A screenshot of the data model and the report PDF are provided below for a quick preview. 
-
-
+- [Dashboard PDF](./Choco_Sales Analysis.pdf)
+- [Data Model}(./
 
 ## **📊 Insights**  
 
