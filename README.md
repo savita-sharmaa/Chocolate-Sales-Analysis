@@ -26,7 +26,7 @@ Data structuring & Modeling
 This repository contains a PDF version of the Power BI report hosted on the Power BI Service, along with its underlying data model. A screenshot of the data model and the report PDF are provided below for a quick preview. 
 - [Dashboard PDF](https://github.com/savita-sharmaa/Chocolate-Sales-Analysis/blob/main/Choco_Sales%20Analysis.pdf)
 - [Data Model](https://github.com/savita-sharmaa/Chocolate-Sales-Analysis/blob/main/Chocolate%20Sales-%20Data%20Model.png)
-- [Live Dashboard](<iframe title="Choco_Sales Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGE2OTlhY2YtOGZkYS00ZGFjLWE3NDktNWViMTQzYzExMTYxIiwidCI6IjU3ZGZkMTU2LWVmYzMtNDE3MS05MDAwLWYxYTQwYjljMGE5NiJ9" frameborder="0" allowFullScreen="true"></iframe>)
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGE2OTlhY2YtOGZkYS00ZGFjLWE3NDktNWViMTQzYzExMTYxIiwidCI6IjU3ZGZkMTU2LWVmYzMtNDE3MS05MDAwLWYxYTQwYjljMGE5NiJ9)
 
 ## **📊 Insights**  
 
