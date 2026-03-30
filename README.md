@@ -55,4 +55,30 @@ Revenue growth remained largely stagnant between 2023 and 2024, with consistent 
 “Mid-Size Packs Drive Maximum Demand”
 -	50g & 100g packs are most popular. 
 -	Dark (50%), Truffle (80%), Praline (50%), and Milk (70%) chocolates, collectively generating over 260K in profit, with a slight dip observed in February. 
--	Sales tend to decline on Mondays and Saturdays. Monthly order trends in 2023–24 show a fluctuating pattern, peaking in January (~43K) and reaching a low in February (~38K). 
+-	Sales tend to decline on Mondays and Saturdays. Monthly order trends in 2023–24 show a fluctuating pattern, peaking in January (~43K) and reaching a low in February (~38K).
+## **⚠️ Risk Zones**
+-	Stagnant Revenue Growth of only 0.12% indicates near saturation or lack of expansion. 
+-	Declining performance in key markets like Germany and even slight drops in Canada. 
+-	Overdependence on Airports - 30% revenue from one channel → high business risk if demand drops. 
+-	Low Margin from High-Value Customers → inefficient pricing or discounting strategy Limited 
+-	No growth in orders per customer or CLV → weak retention/upselling strategies. 
+-	Mondays and Saturdays underperform → operational inefficiency or low engagement. 
+
+## **💡 Recommendations**
+-	Expand into untapped regions or channels beyond airports. 
+-	Run targeted campaigns in Germany (discount optimization, localized marketing). 
+-	Strengthen retention in Canada to stop further decline. 
+-	Implement targeted discounts instead of blanket offers. 
+-	Use A/B testing to measure discount effectiveness. 
+-	Promote non-discounted high-margin products. 
+-	Re-evaluate pricing for high-value customers. 
+-	Introduce bundling strategies to increase margin. 
+-	Launch loyalty programs to increase orders per customer. 
+-	Use personalized recommendations for upselling. 
+-	Analyse operational gaps (store timing, staffing, campaigns). 
+## **📚 Key Learnings**
+- Hands-on experience with Power BI dashboard development  
+- Improved skills in DAX and data modeling  
+- Strengthened ability to derive business insights from data  
+- Learned how to present data in a meaningful and actionable way  
+
