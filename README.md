@@ -1,7 +1,15 @@
 ## **🏢 Company Overview – Freedom Sales Pvt. Ltd.**
 Freedom Sales Pvt. Ltd. is a dynamic marketing and distribution company specializing in a diverse portfolio of consumer products across multiple categories. The company focuses on delivering high-quality products through an extensive network of retail outlets, modern trade channels, and strategic partnerships.
 For this analysis, the focus is specifically on the chocolate segment, one of the company’s key revenue-generating categories. The study evaluates sales performance, customer behaviour, product trends, and profitability within the chocolate portfolio to uncover actionable insights and support strategic decision-making.
+
+## **Business Problem**
+Freedom Pvt. Ltd. is experiencing stagnant revenue growth despite stable sales and a healthy profit margin. The company lacks visibility into regional performance, customer behaviour, product demand, and the impact of discounts on profitability.
+## **Objective**
+To build an interactive Power BI dashboard that analyses sales, customer segments, product performance, and discount strategies to identify growth opportunities, optimize profitability, and support data-driven decision-making.
+
 ## **🛢 Dataset Overview**
+- **Source:** Kaggle  
+- **Dataset Name:** Chocolates Sales Dataset 2023-2024
 The dataset used for this analysis contains transactional, regional, Product, and customer-level data for the chocolate sales segment of Freedom Sales Pvt. Ltd. for the years 2023–2024.
 Files & Key Data Fields: 
 - Customers: customer id, age, gender, loyalty member, join date
