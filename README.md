@@ -7,10 +7,10 @@ Freedom Pvt. Ltd. is experiencing stagnant revenue growth despite stable sales a
 ## **Objective**
 To build an interactive Power BI dashboard that analyses sales, customer segments, product performance, and discount strategies to identify growth opportunities, optimize profitability, and support data-driven decision-making.
 
-## **🛢 Dataset Overview**
+## **🛢 Dataset Details**
 - **Source:** Kaggle  
 - **Dataset Name:** Chocolates Sales Dataset 2023-2024
-The dataset used for this analysis contains transactional, regional, Product, and customer-level data for the chocolate sales segment of Freedom Sales Pvt. Ltd. for the years 2023–2024.
+- **Dataset Description:** The dataset used for this analysis contains transactional, regional, Product, and customer-level data for the chocolate sales segment of Freedom Sales Pvt. Ltd. for the years 2023–2024.
 Files & Key Data Fields: 
 - Customers: customer id, age, gender, loyalty member, join date
 - Calendar: date	year, month, day, day of week,	week number, Month Name
